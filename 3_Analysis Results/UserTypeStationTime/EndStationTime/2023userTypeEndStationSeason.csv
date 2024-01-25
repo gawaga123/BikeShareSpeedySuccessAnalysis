@@ -1,0 +1,47 @@
+seasons,end_station_name,member_casual,count_of_users,,Sum of count_of_users,Column Labels,,,,,,,,,,,,,,,,,,
+2023SummerRide,DuSable Lake Shore Dr & North Blvd,casual,6062,,Row Labels,Ashland Ave & Division St,Broadway & Cornelia Ave,Canal St & Madison St,Clark St & Wrightwood Ave,DuSable Lake Shore Dr & Diversey Pkwy,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & North Blvd,Lincoln Park Conservatory,Michigan Ave & Lake St,Millennium Park,Rush St & Superior St,Shedd Aquarium,Sheffield Ave & Waveland Ave,Sheffield Ave & Wrightwood Ave,Streeter Dr & Grand Ave,Theater on the Lake,Wabash Ave & Wacker Pl,Wells St & Concord Ln,Grand Total
+2023FallRide,Streeter Dr & Grand Ave,casual,5165,,2023SpringRide,,,,,,,,,,,,,,,1564,,,,1564
+2023SummerRide,Streeter Dr & Grand Ave,casual,3907,,2023SummerRide,1860,2051,1949,1959,,3710,6062,1666,2489,1611,1688,2262,2811,1597,3907,1659,1705,2837,41823
+2023SummerRide,DuSable Lake Shore Dr & Monroe St,casual,3710,,2023FallRide,,,,,2819,,,,,,,,,,5165,,,,7984
+2023SummerRide,Wells St & Concord Ln,casual,2837,,Grand Total,1860,2051,1949,1959,2819,3710,6062,1666,2489,1611,1688,2262,2811,1597,10636,1659,1705,2837,51371
+2023FallRide,DuSable Lake Shore Dr & Diversey Pkwy,casual,2819,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Sheffield Ave & Waveland Ave,casual,2811,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Michigan Ave & Lake St,casual,2489,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Shedd Aquarium,casual,2262,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Broadway & Cornelia Ave,casual,2051,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Clark St & Wrightwood Ave,casual,1959,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Canal St & Madison St,casual,1949,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Ashland Ave & Division St,casual,1860,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Wabash Ave & Wacker Pl,casual,1705,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Rush St & Superior St,casual,1688,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Lincoln Park Conservatory,casual,1666,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Theater on the Lake,casual,1659,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Millennium Park,casual,1611,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Sheffield Ave & Wrightwood Ave,casual,1597,,,,,,,,,,,,,,,,,,,,,
+2023SpringRide,Streeter Dr & Grand Ave,casual,1564,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+seasons,end_station_name,member_casual,count_of_users,,Sum of count_of_users,Column Labels,,,,,,,,,,,,,,,,,,
+2023FallRide,Streeter Dr & Grand Ave,member,6620,,Row Labels,Broadway & Cornelia Ave,Canal St & Adams St,Clark St & Elm St,Clinton St & Madison St,Clinton St & Washington Blvd,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & North Blvd,Ellis Ave & 55th St,Ellis Ave & 60th St,Kingsbury St & Kinzie St,Larrabee St & Kingsbury St,Loomis St & Lexington St,Michigan Ave & Lake St,State St & Chicago Ave,Streeter Dr & Grand Ave,Theater on the Lake,University Ave & 57th St,Wells St & Concord Ln,Grand Total
+2023SummerRide,DuSable Lake Shore Dr & North Blvd,member,5563,,2023SpringRide,,3209,3578,,4922,,,3384,3851,2789,3085,3293,,3353,,,4946,,36410
+2023SpringRide,University Ave & 57th St,member,4946,,2023SummerRide,2925,,3408,2755,,3427,5563,,,,,,3104,3292,3892,3403,,3759,35528
+2023SpringRide,Clinton St & Washington Blvd,member,4922,,2023FallRide,,,,,,,,,,,,,,,6620,,,,6620
+2023SummerRide,Streeter Dr & Grand Ave,member,3892,,Grand Total,2925,3209,6986,2755,4922,3427,5563,3384,3851,2789,3085,3293,3104,6645,10512,3403,4946,3759,78558
+2023SpringRide,Ellis Ave & 60th St,member,3851,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Wells St & Concord Ln,member,3759,,,,,,,,,,,,,,,,,,,,,
+2023SpringRide,Clark St & Elm St,member,3578,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,DuSable Lake Shore Dr & Monroe St,member,3427,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Clark St & Elm St,member,3408,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Theater on the Lake,member,3403,,,,,,,,,,,,,,,,,,,,,
+2023SpringRide,Ellis Ave & 55th St,member,3384,,,,,,,,,,,,,,,,,,,,,
+2023SpringRide,State St & Chicago Ave,member,3353,,,,,,,,,,,,,,,,,,,,,
+2023SpringRide,Loomis St & Lexington St,member,3293,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,State St & Chicago Ave,member,3292,,,,,,,,,,,,,,,,,,,,,
+2023SpringRide,Canal St & Adams St,member,3209,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Michigan Ave & Lake St,member,3104,,,,,,,,,,,,,,,,,,,,,
+2023SpringRide,Larrabee St & Kingsbury St,member,3085,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Broadway & Cornelia Ave,member,2925,,,,,,,,,,,,,,,,,,,,,
+2023SpringRide,Kingsbury St & Kinzie St,member,2789,,,,,,,,,,,,,,,,,,,,,
+2023SummerRide,Clinton St & Madison St,member,2755,,,,,,,,,,,,,,,,,,,,,

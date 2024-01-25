@@ -1,0 +1,501 @@
+member_casual,route,route_frequency,avg_ride_length_second
+casual,Public Rack - Western Ave & Devon Ave - Clark St & Lunt Ave,1,636
+casual,Michigan Ave & 18th St - Aberdeen St & Monroe St,1,969
+casual,Francisco Ave & Foster Ave - Manor Ave & Leland Ave,1,525
+casual,Western Ave & Walton St - Dearborn St & Monroe St,1,1125
+casual,Clinton St & Roosevelt Rd - Desplaines St & Randolph St,1,611
+casual,Green St & Madison St - Desplaines St & Randolph St,1,343
+casual,Blue Island Ave & 18th St - Ashland Ave & Archer Ave,1,644
+casual,Clybourn Ave & Division St - Wabash Ave & Grand Ave,1,236
+casual,Public Rack - Milwaukee Ave & Addison St - Public Rack - Milwaukee Ave & Diversey Ave,1,585
+casual,Morgan St & 18th St - Western Ave & Monroe St,1,924
+casual,Racine Ave & Randolph St - LaSalle Dr & Huron St,1,678
+casual,Michigan Ave & Oak St - Larrabee St & Armitage Ave,1,746
+casual,Clark St & Wellington Ave - Larrabee St & Armitage Ave,1,599
+casual,Clark St & Elmdale Ave - Broadway & Ridge Ave,1,283
+casual,Clybourn Ave & Division St - Kimball Ave & Belmont Ave,1,2976
+casual,Ashland Ave & 13th St - Kedzie Ave & Roosevelt Rd,1,997
+casual,Malcolm X College - Dearborn St & Van Buren St,1,5563
+casual,Kedzie Ave & 110th St - Western Ave & 104th St,1,868
+casual,Washtenaw Ave & Ogden Ave - Washtenaw Ave & Ogden Ave,1,621
+casual,Albany Ave & Bloomingdale Ave - Latrobe Ave & Chicago Ave,1,1039
+casual,Lawndale Ave & 111th St - Major Taylor Trail & 115th St,1,1160
+casual,Albany Ave & Montrose Ave - Drake Ave & Montrose Ave,1,188
+casual,Ravenswood Ave & Irving Park Rd - Glenwood Ave & Morse Ave,1,2287
+casual,LaSalle St & Adams St - Clark St & Ida B Wells Dr,1,654
+casual,Shedd Aquarium - Ashland Ave & Grace St,1,2060
+casual,Halsted St & 21st St - Michigan Ave & 14th St,1,816
+casual,Clinton St & Roosevelt Rd - Cityfront Plaza Dr & Pioneer Ct,1,1304
+casual,Dayton St & North Ave - Franklin St & Jackson Blvd,1,1420
+casual,Wilton Ave & Diversey Pkwy* - Lincoln Ave & Fullerton Ave,1,1295
+casual,Financial Pl & Ida B Wells Dr - St. Clair St & Erie St,1,595
+casual,Sedgwick St & North Ave - Kilpatrick Ave & Grand Ave,1,1797
+casual,Shedd Aquarium - Desplaines St & Kinzie St,1,1995
+casual,Franklin St & Chicago Ave - Wabash Ave & Roosevelt Rd,1,909
+casual,Milwaukee Ave & Fullerton Ave - Clark St & Elm St,1,1082
+casual,Clark St & 9th St (AMLI) - Desplaines St & Jackson Blvd,1,396
+casual,Green St & Madison St - Morgan St & Lake St*,1,252
+casual,Ashland Ave & Division St - Morgan St & Lake St*,1,583
+casual,Desplaines St & Randolph St - Morgan St & Lake St*,1,226
+casual,Racine Ave & Congress Pkwy - Green St & Washington Blvd,1,802
+casual,Wood St & Augusta Blvd - Franklin St & Chicago Ave,1,896
+casual,Seeley Ave & Roscoe St - Clark St & Winnemac Ave,1,933
+casual,Western Ave & Granville Ave - Lakeview Ave & Fullerton Pkwy,1,2359
+casual,Wabash Ave & Wacker Pl - Rush St & Hubbard St,1,1031
+casual,Larrabee St & Kingsbury St - Ravenswood Ave & Irving Park Rd,1,493
+casual,Dearborn Pkwy & Delaware Pl - Peoria St & Jackson Blvd,1,1137
+casual,Dearborn St & Adams St - Larrabee St & Kingsbury St,1,779
+casual,Sheffield Ave & Wellington Ave - Winchester Ave & Elston Ave,1,684
+casual,Richmond St & 59th St - Richmond St & 59th St,1,12
+casual,Cityfront Plaza Dr & Pioneer Ct - Ada St & Washington Blvd,1,942
+casual,Clark St & Wrightwood Ave - Sheridan Rd & Montrose Ave,1,595
+casual,Canal St & Adams St - Clark St & Schreiber Ave,1,409
+casual,Canal St & Jackson Blvd - Clark St & Schreiber Ave,1,852
+casual,Maplewood Ave & Peterson Ave - Knox Ave & Montrose Ave,1,3239
+casual,Sangamon St & Lake St - Orleans St & Hubbard St,1,257
+casual,Central Ave & Parker Ave - Fullerton & Monitor,1,407
+casual,California Ave & Milwaukee Ave - Racine Ave & Randolph St,1,1499
+casual,Public Rack - Robert Fulton Elementary School - Public Rack - Western Blvd & 49th St,1,353
+casual,Lincoln Ave & Belmont Ave (Temp) - Southport Ave & Roscoe St,1,645
+casual,Morgan St & Polk St - Western Ave & Congress Pkwy,1,915
+casual,Ashland Ave & 13th St - Ashland Ave & Archer Ave,1,768
+casual,Peoria St & Jackson Blvd - Wacker Dr & Washington St,1,422
+casual,Elston Ave & Cortland St - Dearborn St & Monroe St,1,1782
+casual,Sayre & Diversey - Austin Blvd & Lake St,1,3401
+casual,Greenview Ave & Fullerton Ave - Elston Ave & Wabansia Ave,1,544
+casual,Clark St & Randolph St - Hermitage Ave & Polk St,1,1370
+casual,W Oakdale Ave & N Broadway - Clark St & Grace St,1,445
+casual,Jefferson St & Monroe St - Canal St & Adams St,1,181
+casual,Broadway & Ridge Ave - Clark St & Columbia Ave,1,465
+casual,Peoria St & Jackson Blvd - Wabash Ave & Grand Ave,1,1019
+casual,Clark St & 9th St (AMLI) - Halsted St & Maxwell St,1,336
+casual,Sangamon St & Washington Blvd - Kingsbury St & Erie St,1,603
+casual,Logan Blvd & Elston Ave - Kingsbury St & Erie St,1,1299
+casual,Ashland Ave & Wellington Ave - Talman Ave & Addison St,1,524
+casual,Cityfront Plaza Dr & Pioneer Ct - Franklin St & Monroe St,1,463
+casual,Halsted St & North Branch St - Wells St & Evergreen Ave,1,740
+casual,Southport Ave & Belmont Ave - Sedgwick St & North Ave,1,769
+casual,Wood St & Chicago Ave - Loomis St & Jackson Blvd,1,669
+casual,Green St & Randolph St* - Clinton St & Washington Blvd,1,300
+casual,Clark St & Drummond Pl - Larrabee St & Armitage Ave,1,721
+casual,Kostner Ave & Adams St - Conservatory Dr & Lake St,1,1203
+casual,Damen Ave & Charleston St - Lincoln Ave & Roscoe St*,1,996
+casual,Emerald Ave & 31st St - Lincoln Ave & Waveland Ave,1,3250
+casual,Paulina St & Montrose Ave - Lincoln Ave & Waveland Ave,1,404
+casual,St. Clair St & Erie St - Ashland Ave & Chicago Ave,1,804
+casual,Lincoln Ave & Waveland Ave - Bissell St & Armitage Ave*,1,1026
+casual,Major Taylor Trail & 124th St - Major Taylor Trail & 115th St,1,1609
+casual,Racine Ave & Fullerton Ave - Southport Ave & Waveland Ave,1,583
+casual,Green St & Madison St - Lincoln Ave & Roscoe St*,1,1959
+casual,Manor Ave & Leland Ave - California Ave & Fletcher St,1,580
+casual,Dearborn St & Van Buren St - Franklin St & Jackson Blvd,1,260
+casual,Wells St & Elm St - Wabash Ave & Adams St,1,680
+casual,California Ave & Milwaukee Ave - Ashland Ave & Augusta Blvd,1,1112
+casual,Michigan Ave & Washington St - Leavitt St & Belmont Ave,1,708
+casual,Larrabee St & Division St - Mies van der Rohe Way & Chicago Ave,1,708
+casual,Halsted St & Polk St - Clarendon Ave & Junior Ter,1,1860
+casual,Kimball Ave & Belmont Ave - Kilpatrick Ave & Parker Ave,1,624
+casual,Field Blvd & South Water St - Sheffield Ave & Kingsbury St,1,1294
+casual,California Ave & Francis Pl (Temp) - Walsh Park,1,500
+casual,Lincoln Ave & Belmont Ave (Temp) - Southport Ave & Clybourn Ave,1,1233
+casual,Western Ave & Granville Ave - Benson Ave & Church St,1,1806
+casual,California Ave & Fletcher St - Campbell Ave & Fullerton Ave,1,578
+casual,Halsted St & Clybourn Ave - Central Park Ave & 24th St,1,991
+casual,Leamington Ave & Hirsch St - Laramie Ave & Kinzie St,1,500
+casual,Sedgwick St & Webster Ave - Lakeview Ave & Fullerton Pkwy,1,118
+casual,Greenview Ave & Fullerton Ave - Lakeview Ave & Fullerton Pkwy,1,438
+casual,State St & Randolph St - Lakeview Ave & Fullerton Pkwy,1,2320
+casual,Ashland Ave & Wrightwood Ave - Lakeview Ave & Fullerton Pkwy,1,738
+casual,Damen Ave & Foster Ave - California Ave & Milwaukee Ave,1,1128
+casual,Troy St & Grace St - Kilbourn Ave & Milwaukee Ave,1,571
+casual,W Oakdale Ave & N Broadway - Lincoln Ave & Diversey Pkwy,1,501
+casual,Financial Pl & Ida B Wells Dr - Calumet Ave & 21st St,1,1231
+casual,Halsted St & 35th St - Shields Ave & 28th Pl,1,824
+casual,Clinton St & Madison St - Morgan St & 18th St,1,659
+casual,Milwaukee Ave & Rockwell St - Central Park Ave & Elbridge Ave,1,402
+casual,Broadway & Barry Ave - Daley Center Plaza,1,4257
+casual,Ada St & Washington Blvd - Daley Center Plaza,1,790
+casual,Broadway & Belmont Ave - Clark St & Berwyn Ave,1,988
+casual,Calumet Ave & 33rd St - Woodlawn Ave & Lake Park Ave,1,838
+casual,Canal St & Adams St - Orleans St & Elm St,1,572
+casual,Clark St & Randolph St - Kedzie Ave & 48th Pl,1,410
+casual,Sheffield Ave & Willow St - Milwaukee Ave & Fullerton Ave,1,808
+casual,Campbell Ave & Fullerton Ave - Milwaukee Ave & Fullerton Ave,1,179
+casual,Elston Ave & Wabansia Ave - California Ave & Altgeld St,1,656
+casual,Clark St & Drummond Pl - Sheridan Rd & Montrose Ave,1,1001
+casual,Larrabee St & Oak St - Sangamon St & Lake St,1,870
+casual,Clinton St & 18th St - Michigan Ave & 18th St,1,329
+casual,Avers Ave & Belmont Ave - Public Rack - Menard Ave & Dakin St - midblock,1,756
+casual,Wabash Ave & Grand Ave - Racine Ave & Randolph St,1,874
+casual,Franklin St & Lake St - Fairbanks Ct & Grand Ave,1,20427
+casual,W Armitage Ave & N Sheffield Ave - Dearborn Pkwy & Delaware Pl,1,755
+casual,LaSalle St & Washington St - Damen Ave & Cortland St,1,4149
+casual,N Carpenter St & W Lake St - Sheffield Ave & Willow St,1,855
+casual,DuSable Museum - Stony Island Ave & 71st St,1,1390
+casual,Damen Ave & Melrose Ave - Southport Ave & Roscoe St,1,546
+casual,Rockwell St & Eastwood Ave - Southport Ave & Roscoe St,1,815
+casual,McClurg Ct & Ohio St - Southport Ave & Roscoe St,1,7033
+casual,Wabash Ave & Roosevelt Rd - Throop St & Taylor St,1,655
+casual,Ellis Ave & 58th St - McClurg Ct & Erie St,1,342
+casual,Ravenswood Ave & Irving Park Rd - Wood St & Milwaukee Ave,1,1362
+casual,Clark St & 9th St (AMLI) - Clinton St & Madison St,1,732
+casual,Wood St & Augusta Blvd - Wacker Dr & Washington St,1,1138
+casual,Ashland Ave & 50th St - Throop St & 52nd St,1,3507
+casual,Fairbanks St & Superior St - Dearborn St & Monroe St,1,885
+casual,Halsted St & Willow St - Clark St & Grace St,1,1033
+casual,Desplaines St & Jackson Blvd - Wabash Ave & Wacker Pl,1,698
+casual,Michigan Ave & Lake St - Canal St & Jackson Blvd,1,1959
+casual,Racine Ave & Washington Blvd - Kingsbury St & Erie St,1,668
+casual,Broadway & Granville Ave - Troy St & Grace St,1,1695
+casual,W 103rd St & S Avers Ave - Public Rack - Christiana Ave & 111th St,1,540
+casual,Ashland Ave & 50th St - Western Blvd & 48th Pl,1,2308
+casual,Dearborn St & Adams St - Field Blvd & South Water St,1,512
+casual,Benson Ave & Church St - Clinton St & Washington Blvd,1,555
+casual,Mies van der Rohe Way & Chestnut St - Clinton St & Washington Blvd,1,703
+casual,Sheridan Rd & Argyle St - Honore St & Division St,1,1912
+casual,Michigan Ave & 14th St - University Ave & 57th St,1,413
+casual,Clark St & Drummond Pl - Humboldt Blvd & Armitage Ave,1,1658
+casual,Larrabee St & Webster Ave - Paulina St & Montrose Ave,1,861
+casual,Wood St & Taylor St (Temp) - Racine Ave & Congress Pkwy,1,560
+casual,Wabash Ave & Roosevelt Rd - Halsted St & Willow St,1,422
+casual,Loomis St & Archer Ave - Morgan St & 31st St,1,1026
+casual,Glenwood Ave & Morse Ave - Ravenswood Ave & Berteau Ave,1,1177
+casual,Franklin St & Jackson Blvd - 900 W Harrison St,1,433
+casual,Talman Ave & Addison St - Walsh Park,1,933
+casual,Ashland Ave & Lake St - Albany Ave & Bloomingdale Ave,1,1461
+casual,LaSalle St & Washington St - Aberdeen St & Jackson Blvd,1,625
+casual,Wells St & Huron St - Aberdeen St & Jackson Blvd,1,747
+casual,Financial Pl & Ida B Wells Dr - Fort Dearborn Dr & 31st St,1,1119
+casual,Sedgwick St & Webster Ave - N Clark St & W Elm St,1,1647
+casual,Ashland Ave & Division St - Wells St & Hubbard St,1,657
+casual,Franklin St & Adams St (Temp) - Ritchie Ct & Banks St,1,751
+casual,Fort Dearborn Dr & 31st St - Halsted St & 35th St,1,945
+casual,Wood St & Milwaukee Ave - Clark St & Berwyn Ave,1,1426
+casual,DuSable Lake Shore Dr & Belmont Ave - Clinton St & Roosevelt Rd,1,2898
+casual,Damen Ave & Cullerton St - LaSalle St & Illinois St,1,2386
+casual,Albany Ave & Bloomingdale Ave - Ashland Ave & Lake St,1,1986
+casual,Southport Ave & Roscoe St - Ashland Ave & Lake St,1,213
+casual,Larrabee St & Armitage Ave - Ashland Ave & Lake St,1,228
+casual,Western Ave & Walton St - Ashland Ave & Grand Ave,1,356
+casual,Public Rack - Cicero Ave & Wrightwood Ave - California Ave & Division St,1,1090
+casual,Franklin St & Monroe St - Fairbanks Ct & Grand Ave,1,1170
+casual,Western Ave & Gunnison St - Clark St & Chicago Ave,1,1511
+casual,Franklin St & Jackson Blvd - St. Louis Ave & Fullerton Ave,1,2244
+casual,Lakeview Ave & Fullerton Pkwy - Southport Ave & Roscoe St,1,1119
+casual,Ridge Blvd & Howard St - Central St Metra,1,780
+casual,Halsted St & North Branch St - Burling St & Diversey Pkwy,1,922
+casual,Daley Center Plaza - Millard Ave & 26th St,1,3073
+casual,Lincoln Ave & Diversey Pkwy - Clark St & Bryn Mawr Ave,1,105
+casual,Ashland Ave & Division St - Franklin St & Monroe St,1,1166
+casual,Broadway & Thorndale Ave - Troy St & Grace St,1,1487
+casual,Logan Blvd & Elston Ave - Broadway & Sheridan Rd,1,806
+casual,Emerald Ave & 28th St - Ogden Ave & Roosevelt Rd,1,949
+casual,Franklin St & Jackson Blvd - Larrabee St & Armitage Ave,1,1423
+casual,Western Ave & Grace St - Larrabee St & Division St,1,1197
+casual,Christiana Ave & Lawrence Ave - Humboldt Blvd & Armitage Ave,1,1128
+casual,Aberdeen St & Randolph St - Public Rack - Woodlawn Ave & 63rd St N,1,330
+casual,Carpenter St & Huron St - Orleans St & Chestnut St (NEXT Apts),1,436
+casual,Wolcott (Ravenswood) Ave & Montrose Ave - Wells St & Concord Ln,1,1854
+casual,Damen Ave & Wellington Ave - Halsted St & Wrightwood Ave,1,976
+casual,Blackstone Ave & Hyde Park Blvd - MLK Jr Dr & 47th St,1,905
+casual,Public Rack - Woodlawn Ave & 63rd St N - Ellis Ave & 55th St,1,508
+casual,Clark St & Armitage Ave - Kilbourn & Roscoe,1,500
+casual,Hampden Ct & Diversey Ave - Desplaines St & Kinzie St,1,995
+casual,Keystone Ave & Montrose Ave - Kildare Ave & Montrose Ave,1,311
+casual,Ravenswood Ave & Irving Park Rd - Kedzie Ave & Milwaukee Ave,1,968
+casual,Western Ave & Leland Ave - Kedzie Ave & Milwaukee Ave,1,1188
+casual,Museum of Science and Industry - Fort Dearborn Dr & 31st St,1,1908
+casual,Peoria St & Jackson Blvd - Shields Ave & 28th Pl,1,1036
+casual,Canal St & Madison St - Ravenswood Ave & Irving Park Rd,1,501
+casual,Racine Ave & Washington Blvd - Larrabee St & Kingsbury St,1,813
+casual,Blue Island Ave & 18th St - Desplaines St & Randolph St,1,26576
+casual,Wabash Ave & Grand Ave - Kedzie Ave & 48th Pl,1,301
+casual,Michigan Ave & Washington St - Clark St & Schreiber Ave,1,266
+casual,Rockwell St & Archer Ave - Wood St & 35th St,1,1089
+casual,Blackstone Ave & Hyde Park Blvd - Public Rack - Kimbark Ave & 63rd St,1,759
+casual,Ashland Ave & Lake St - Logan Blvd & Elston Ave,1,1407
+casual,Halsted St & Maxwell St - Rockwell St & Eastwood Ave,1,268
+casual,Francisco Ave & Montrose Ave - California Ave & Francis Pl (Temp),1,1077
+casual,Racine Ave & 18th St - Damen Ave & Thomas St (Augusta Blvd),1,1396
+casual,Eckhart Park - Canal St & Taylor St,1,933
+casual,Racine Ave & Belmont Ave - Millennium Park,1,2349
+casual,Lincoln Ave & Fullerton Ave - Clinton St & Tilden St,1,512
+casual,Racine Ave & Washington Blvd - Kedzie Ave & Chicago Ave,1,742
+casual,2112 W Peterson Ave - Broadway & Wilson Ave,1,1201
+casual,Troy St & North Ave - Kosciuszko Park,1,1144
+casual,Leavitt St & Chicago Ave - Ogden Ave & Race Ave,1,437
+casual,Franklin St & Lake St - LaSalle St & Washington St,1,9608
+casual,Broadway & Cornelia Ave - Larrabee St & Armitage Ave,1,644
+casual,Broadway & Waveland Ave - Lincoln Ave & Roscoe St*,1,611
+casual,Sedgwick St & North Ave - Paulina St & Flournoy St,1,1018
+casual,Rockwell St & Fletcher St - Damen Ave & Clybourn Ave,1,407
+casual,Rush St & Cedar St - Wood St & Webster Ave,1,1189
+casual,Dearborn St & Monroe St - Mies van der Rohe Way & Chicago Ave,1,1330
+casual,Canal St & Jackson Blvd - State St & Pearson St,1,1060
+casual,Cityfront Plaza Dr & Pioneer Ct - Franklin St & Chicago Ave,1,652
+casual,Kedzie Ave & 45th St - Franklin St & Chicago Ave,1,199
+casual,Broadway & Cornelia Ave - Ogden Ave & Chicago Ave,1,1447
+casual,Damen Ave & Chicago Ave - Peoria St & Jackson Blvd,1,891
+casual,W Armitage Ave & N Sheffield Ave - Stave St & Armitage Ave,1,755
+casual,Wood St & Webster Ave - Stave St & Armitage Ave,1,1464
+casual,Financial Pl & Ida B Wells Dr - Michigan Ave & Washington St,1,449
+casual,Artesian Ave & Hubbard St - Racine Ave & Randolph St,1,754
+casual,Clark St & Leland Ave - Ashland Ave & Belle Plaine Ave,1,1451
+casual,LaSalle St & Jackson Blvd - Ashland Ave & Chicago Ave,1,9670
+casual,Ashland Ave & Grace St - Western Ave & Division St,1,466
+casual,California Ave & Francis Pl (Temp) - Logan Blvd & Elston Ave,1,532
+casual,Dearborn St & Adams St - Wood St & Milwaukee Ave,1,1529
+casual,Lincoln Ave & Diversey Pkwy - Wood St & Milwaukee Ave,1,805
+casual,Ravenswood Ave & Lawrence Ave - Broadway & Barry Ave,1,1108
+casual,Aberdeen St & Jackson Blvd - Racine Ave & 13th St,1,385
+casual,Field Blvd & South Water St - Wacker Dr & Washington St,1,709
+casual,Clinton St & Washington Blvd - Elston Ave & Wabansia Ave,1,1163
+casual,Clark St & Armitage Ave - Orleans St & Merchandise Mart Plaza,1,798
+casual,Michigan Ave & Pearson St - Clark St & Wellington Ave,1,1882
+casual,Pine Grove Ave & Irving Park Rd - Hoyne Ave & Balmoral Ave,1,915
+casual,Harper Ave & 59th St - Peoria St & Jackson Blvd,1,3012
+casual,Broadway & Waveland Ave - Clifton Ave & Armitage Ave,1,1123
+casual,Sedgwick St & Webster Ave - Clifton Ave & Armitage Ave,1,581
+casual,Carpenter St & Huron St - Leavitt St & North Ave,1,1257
+casual,Green St & Randolph St* - Millennium Park,1,717
+casual,Winchester (Ravenswood) Ave & Balmoral Ave - Clark St & Bryn Mawr Ave,1,560
+casual,Dodge Ave & Church St - Western Ave & Lunt Ave,1,1754
+casual,Clark St & Columbia Ave - Western Ave & Lunt Ave,1,895
+casual,University Ave & 57th St - Dearborn St & Adams St,1,3013
+casual,State St & Randolph St - Dearborn St & Adams St,1,162
+casual,Western Ave & 21st St - Ogden Ave & Roosevelt Rd,1,303
+casual,Western Ave & Monroe St - Larrabee St & Armitage Ave,1,1009
+casual,Sheffield Ave & Webster Ave - Lincoln Ave & Waveland Ave,1,664
+casual,Lincoln Ave & Roscoe St* - Clark St & Elmdale Ave,1,442
+casual,DuSable Lake Shore Dr & Belmont Ave - Leavitt St & Addison St,1,1504
+casual,Larrabee St & North Ave - State St & Van Buren St,1,2214
+casual,Clark St & Berwyn Ave - Lincoln Ave & Balmoral Ave,1,779
+casual,Blue Island Ave & 18th St - McCormick Place,1,787
+casual,Public Rack - California Ave & Touhy Ave - NW - Glenwood Ave & Morse Ave,1,667
+casual,Narragansett & Wrightwood - Long Ave & Belden Ave,1,693
+casual,Campbell Ave & North Ave - Racine Ave & Fullerton Ave,1,636
+casual,Whipple/Irving Park - California Ave & Fletcher St,1,318
+casual,Lincoln Ave & Addison St - Seeley Ave & Roscoe St,1,880
+casual,Lincoln Ave & Waveland Ave - Milwaukee Ave & Wabansia Ave,1,1430
+casual,Wood St & Webster Ave - Western Ave & Winnebago Ave,1,452
+casual,California Ave & Francis Pl (Temp) - Wood St & Webster Ave,1,743
+casual,California Ave & Milwaukee Ave - Wood St & Webster Ave,1,569
+casual,Wilton Ave & Diversey Pkwy - Southport Ave & Irving Park Rd,1,1604
+casual,Stockton Dr & Wrightwood Ave - California Ave & Cortez St,1,1885
+casual,Damen Ave & Grand Ave - Leavitt St & Belmont Ave,1,746
+casual,Stetson Ave & South Water St - St. Clair St & Erie St,1,1361
+casual,Federal St & Polk St - Lake Park Ave & 53rd St,1,2339
+casual,California Ave & Altgeld St - Artesian Ave & Hubbard St,1,1055
+casual,Long Ave & Belmont Ave - Kilpatrick Ave & Parker Ave,1,1358
+casual,Lamon Ave & Armitage Ave - Public Rack - Kostner Ave & Armitage Ave,1,406
+casual,Elston Ave & Cortland St - Sheridan Rd & Irving Park Rd,1,1351
+casual,Wells St & Walton St - W Armitage Ave & N Sheffield Ave,1,890
+casual,State St & Kinzie St - N Carpenter St & W Lake St,1,498
+casual,Milwaukee Ave & Grand Ave - Wilton Ave & Belmont Ave,1,967
+casual,Orleans St & Hubbard St - Desplaines St & Jackson Blvd,1,674
+casual,Morgan St & Polk St - Damen Ave & Chicago Ave,1,1331
+casual,Clark St & Elmdale Ave - Warren Park East,1,978
+casual,Leavitt St & Armitage Ave - St. Louis Ave & Fullerton Ave,1,582
+casual,Paulina Ave & North Ave - St. Louis Ave & Fullerton Ave,1,2382
+casual,Clark St & Ida B Wells Dr - Green St & Washington Blvd,1,997
+casual,Broadway & Barry Ave - Lincoln Ave & Addison St,1,664
+casual,Wabash Ave & 9th St - Racine Ave & Washington Blvd,1,651
+casual,Kilbourn & Roscoe - Public Rack - Foster Ave & Drake Ave,1,1761
+casual,Central Park Ave & Bloomingdale Ave - Western Ave & Walton St,1,926
+casual,Kenosha & Wellington - Drake Ave & Addison St,1,2735
+casual,McClurg Ct & Ohio St - Clark St & Winnemac Ave,1,2495
+casual,DuSable Lake Shore Dr & North Blvd - Clark St & Winnemac Ave,1,1766
+casual,Burnham Harbor - Lakeview Ave & Fullerton Pkwy,1,1823
+casual,California Ave & 21st St - Lakeview Ave & Fullerton Pkwy,1,261
+casual,Stave St & Armitage Ave - Wells St & Hubbard St,1,999
+casual,Dearborn St & Adams St - Wells St & Hubbard St,1,553
+casual,Damen Ave & Pershing Rd - Laflin St & Cullerton St,1,1329
+casual,Burnham Harbor - Harper Ave & 59th St,1,2251
+casual,Clark St & 9th St (AMLI) - Halsted St & 35th St,1,6469
+casual,Western Ave & Leland Ave - Winchester Ave & Elston Ave,1,965
+casual,Vernon Ave & 75th St - Woodlawn Ave & 75th St,1,449
+casual,Sawyer Ave & Irving Park Rd - Francisco Ave & Bloomingdale Ave,1,993
+casual,Broadway & Ridge Ave - N Shore Channel Trail & Argyle St,1,1408
+casual,Western Ave & Walton St - Avondale Ave & Irving Park Rd,1,505
+casual,California Ave & Fletcher St - Stave St & Armitage Ave,1,738
+casual,Cottage Grove Ave & 47th St - Prairie Ave & 43rd St,1,447
+casual,Lakefront Trail & Bryn Mawr Ave - Canal St & Madison St,1,3942
+casual,McCormick Place - Ashland Ave & Grand Ave,1,2151
+casual,Franklin St & Adams St (Temp) - Clinton St & Jackson Blvd,1,74769
+casual,Michigan Ave & Lake St - Michigan Ave & 18th St,1,747
+casual,Cityfront Plaza Dr & Pioneer Ct - Michigan Ave & 18th St,1,1167
+casual,Wabash Ave & Grand Ave - Michigan Ave & 18th St,1,669
+casual,Sheridan Rd & Lawrence Ave - Wilton Ave & Diversey Pkwy,1,1173
+casual,Damen Ave & Foster Ave - Sheridan Rd & Noyes St (NU),1,1776
+casual,Wabash Ave & 16th St - Canal St & Monroe St,1,922
+casual,Franklin St & Lake St - Dearborn Pkwy & Delaware Pl,1,604
+casual,Seeley Ave & Roscoe St - Damen Ave & Grand Ave,1,1589
+casual,Dusable Harbor - Greenview Ave & Diversey Pkwy,1,1404
+casual,California Ave & Fletcher St - Damen Ave & Wellington Ave,1,359
+casual,Clark St & Bryn Mawr Ave - Southport Ave & Roscoe St,1,1177
+casual,St. Clair St & Erie St - Halsted St & North Branch St,1,1320
+casual,Leavitt St & Belmont Ave - Broadway & Barry Ave,1,609
+casual,Sheridan Rd & Montrose Ave - Broadway & Barry Ave,1,626
+casual,Western Ave & Grace St - Lincoln Ave & Sunnyside Ave,1,489
+casual,Noble St & Milwaukee Ave - Malcolm X College,1,1403
+casual,Damen Ave & Leland Ave - Manor Ave & Leland Ave,1,364
+casual,State St & Van Buren St - Wacker Dr & Washington St,1,9873
+casual,Michigan Ave & Jackson Blvd - Elizabeth St & Randolph St,1,9540
+casual,LaSalle St & Illinois St - Desplaines St & Randolph St,1,441
+casual,Eggleston Ave & 69th St - Carpenter St & 63rd St,1,751
+casual,63rd St Beach - Prairie Ave & Garfield Blvd,1,1290
+casual,Ashland Ave & Augusta Blvd - Clinton St & Jackson Blvd,1,812
+casual,Western Ave & Leland Ave - Clark St & Columbia Ave,1,1099
+casual,Ashland Ave & Grace St - Public Rack - Keystone Ave & North Ave,1,1573
+casual,Lincoln Ave & Fullerton Ave - Hoyne Ave & Balmoral Ave,1,1935
+casual,Damen Ave & Division St - Leavitt St & Armitage Ave,1,370
+casual,Ashland Ave & Wrightwood Ave - Clark St & Armitage Ave,1,1076
+casual,Morgan Ave & 14th Pl - W Oakdale Ave & N Broadway,1,915
+casual,Cityfront Plaza Dr & Pioneer Ct - Normal Ave & Archer Ave,1,1202
+casual,State St & Chicago Ave - Racine Ave & 18th St,1,1100
+casual,Humboldt Blvd & Armitage Ave - LaSalle St & Jackson Blvd,1,3519
+casual,MLK Jr Dr & Pershing Rd - Calumet Ave & 35th St,1,325
+casual,Halsted St & North Branch St - Sangamon St & Washington Blvd,1,387
+casual,Lincoln Ave & Diversey Pkwy - Broadway & Sheridan Rd,1,681
+casual,LaSalle Dr & Huron St - State St & Harrison St,1,9050
+casual,Wells St & Institute Pl - Ogden Ave & Race Ave,1,7318
+casual,State St & Van Buren St - Halsted St & Polk St,1,763
+casual,Clinton St & Madison St - Clinton St & 18th St,1,1032
+casual,Lakefront Trail & Wilson Ave - Broadway & Ridge Ave,1,850
+casual,Clark St & Lake St - Honore St & Division St,1,2359
+casual,University Ave & 57th St - Broadway & Thorndale Ave,1,7597
+casual,Kedzie Ave & Foster Ave - Warren Park West,1,1192
+casual,Campbell Ave & Irving Park Rd - Leavitt St & Addison St,1,300
+casual,Central Park Ave & Bloomingdale Ave - Humboldt Blvd & Armitage Ave,1,606
+casual,Franklin St & Lake St - Ashland Ave & Chicago Ave,1,596
+casual,Millennium Park - Ashland Ave & Chicago Ave,1,1742
+casual,Southport Ave & Waveland Ave - Rockwell St & Fletcher St,1,1187
+casual,California Ave & Winona St - Budlong Woods Library,1,504
+casual,Wells St & Institute Pl - Stetson Ave & South Water St,1,466
+casual,Theater on the Lake - Southport Ave & Waveland Ave,1,1049
+casual,Sheffield Ave & Waveland Ave - Paulina St & Flournoy St,1,1436
+casual,Michigan Ave & 18th St - Indiana Ave & 26th St,1,353
+casual,Canal St & Madison St - Wood St & Hubbard St,1,761
+casual,Warren Park East - Glenwood Ave & Morse Ave,1,352
+casual,Sheffield Ave & Willow St - Damen Ave & Clybourn Ave,1,563
+casual,Hoyne Ave & Balmoral Ave - Clark St & Leland Ave,1,732
+casual,Broadway & Cornelia Ave - Ashland Ave & Wellington Ave,1,842
+casual,Broadway & Argyle St - Ashland Ave & Grace St,1,670
+casual,Southport Ave & Roscoe St - California Ave & Fletcher St,1,941
+casual,Orleans St & Elm St - Milwaukee Ave & Wabansia Ave,1,1257
+casual,Sheffield Ave & Wellington Ave - Lakefront Trail & Bryn Mawr Ave,1,3924
+casual,Leavitt St & Archer Ave - St. Clair St & Erie St,1,4193
+casual,Michigan Ave & Ida B Wells Dr - Mies van der Rohe Way & Chicago Ave,1,1880
+casual,St. Clair St & Erie St - State St & Kinzie St,1,314
+casual,Western Ave & Division St - Spaulding Ave & Armitage Ave,1,749
+casual,Halsted St & Wrightwood Ave - Desplaines St & Kinzie St,1,1106
+casual,Morgan St & Lake St* - Eckhart Park,1,439
+casual,Dusable Harbor - Franklin St & Jackson Blvd,1,2866
+casual,Washtenaw Ave & Peterson Ave - 2112 W Peterson Ave,1,435
+casual,Ellis Ave & 55th St - Emerald Ave & 31st St,1,2253
+casual,Sangamon St & Washington Blvd - Wabash Ave & Roosevelt Rd,1,1495
+casual,Lakefront Trail & Bryn Mawr Ave - Sheridan Rd & Irving Park Rd,1,1725
+casual,Laramie Ave & Madison St - Cicero Ave & Quincy St,1,240
+casual,Clark St & Randolph St - Fairbanks St & Superior St,1,611
+casual,Kedzie Ave & Milwaukee Ave - N Green St & W Lake St,1,1180
+casual,Cottage Grove Ave & 78th St - State St & 79th St,1,578
+casual,Dayton St & North Ave - Damen Ave & Chicago Ave,1,638
+casual,Dearborn St & Van Buren St - Jefferson St & Monroe St,1,1848
+casual,Larrabee St & Menomonee St - Sedgwick St & Webster Ave,1,220
+casual,Ashland Ave & Lake St - Base - 2132 W Hubbard,1,583
+casual,Pulaski Rd & 51st St - Public Rack - Pulaski Rd & 44th St,1,526
+casual,Stockton Dr & Wrightwood Ave - Pulaski Rd & 51st St,1,1198
+casual,Larrabee St & Division St - University Library (NU),1,324
+casual,Racine Ave & 18th St - Public Rack - Princeton Ave & 43rd St,1,1101
+casual,Benson Ave & Church St - Richmond St & Diversey Ave,1,1092
+casual,California Ave & Montrose Ave - Lincoln Ave & Diversey Pkwy,1,1516
+casual,Ellis Ave & 60th St - Calumet Ave & 21st St,1,1033
+casual,Dearborn St & Adams St - Ritchie Ct & Banks St,1,878
+casual,Seeley Ave & Roscoe St - Ritchie Ct & Banks St,1,4080
+casual,W Oakdale Ave & N Broadway - Michigan Ave & Oak St,1,942
+casual,Aberdeen St & Jackson Blvd - Halsted St & 35th St,1,871
+casual,Lakeview Ave & Fullerton Pkwy - Ravenswood Ave & Irving Park Rd,1,1186
+casual,Michigan Ave & Washington St - Daley Center Plaza,1,637
+casual,Orleans St & Chestnut St (NEXT Apts) - Wells St & Institute Pl,1,2674
+casual,Federal St & Polk St - Aberdeen St & Randolph St,1,1133
+casual,Wentworth Ave & Cermak Rd - Michigan Ave & 8th St,1,5343
+casual,Lincoln Ave & Waveland Ave - Michigan Ave & Washington St,1,2104
+casual,Kedzie Ave & Leland Ave - Knox Ave & Montrose Ave,1,1520
+casual,Broadway & Cornelia Ave - Winthrop Ave & Lawrence Ave,1,974
+casual,Halsted St & Clybourn Ave - Winthrop Ave & Lawrence Ave,1,1321
+casual,Elmwood Ave & Austin St - Broadway & Granville Ave,1,791
+casual,Halsted St & Clybourn Ave - Dearborn Pkwy & Delaware Pl,1,656
+casual,Hampden Ct & Diversey Ave - Shedd Aquarium,1,1654
+casual,Calumet Ave & 21st St - Delano Ct & Roosevelt Rd,1,1107
+casual,Sangamon St & Lake St - Delano Ct & Roosevelt Rd,1,974
+casual,Racine Ave & Garfield Blvd - Delano Ct & Roosevelt Rd,1,3428
+casual,Theater on the Lake - Southport Ave & Roscoe St,1,1164
+casual,LaSalle St & Washington St - Throop St & Taylor St,1,1146
+casual,Kingsbury St & Kinzie St - Wood St & Milwaukee Ave,1,705
+casual,Dusable Harbor - Broadway & Barry Ave,1,1966
+casual,Green St & Madison St - Clark St & Lunt Ave,1,3593
+casual,Morgan St & Polk St - Desplaines St & Randolph St,1,620
+casual,Stewart Ave & 63rd St - Carpenter St & 63rd St,1,482
+casual,Clinton St & Lake St - Orleans St & Merchandise Mart Plaza,1,257
+casual,Michigan Ave & Madison St - Noble St & Milwaukee Ave,1,892
+casual,Wood St & Milwaukee Ave - Avers Ave & Belmont Ave,1,1755
+casual,LaSalle St & Illinois St - Canal St & Taylor St,1,3448
+casual,Broadway & Argyle St - Clark St & Columbia Ave,1,1090
+casual,Cottage Grove Ave & 71st St - Perry Ave & 69th St,1,550
+casual,Calumet Ave & 18th St - Racine Ave & 35th St,1,2454
+casual,Rush St & Cedar St - Adler Planetarium,1,2118
+casual,Manor Ave & Leland Ave - Lincoln Ave & Winona St,1,609
+casual,St. Louis Ave & Fullerton Ave - Leavitt St & North Ave,1,1056
+casual,Jeffery Blvd & 67th St - Cornell Ave & Hyde Park Blvd,1,1608
+casual,Walsh Park - Kedzie Ave & Chicago Ave,1,1286
+casual,Clark St & Berwyn Ave - Larrabee St & Menomonee St,1,210
+casual,California Ave & Francis Pl (Temp) - Kosciuszko Park,1,967
+casual,Noble St & Milwaukee Ave - Sedgwick St & North Ave,1,787
+casual,Damen Ave & Walnut (Lake) St - Clinton St & Washington Blvd,1,1759
+casual,Damen Ave & Melrose Ave - Clinton St & Washington Blvd,1,1157
+casual,Racine Ave & 13th St - Ogden Ave & Roosevelt Rd,1,634
+casual,DuSable Lake Shore Dr & Monroe St - Wolcott Ave & Polk St,1,228
+casual,Michigan Ave & Ida B Wells Dr - Honore St & Division St,1,1799
+casual,Racine Ave & Wrightwood Ave - Lincoln Ave & Waveland Ave,1,882
+casual,Eckhart Park - Stetson Ave & South Water St,1,1389
+casual,California Ave & Montrose Ave - Southport Ave & Waveland Ave,1,1119
+casual,Wells St & Concord Ln - Southport Ave & Waveland Ave,1,1537
+casual,Broadway & Cornelia Ave - Paulina Ave & North Ave,1,1405
+casual,Broadway & Sheridan Rd - California Ave & Fletcher St,1,348
+casual,Sangamon St & Lake St - Cityfront Plaza Dr & Pioneer Ct,1,676
+casual,Damen Ave & Leland Ave - N Paulina St & Lincoln Ave,1,951
+casual,Sheridan Rd & Lawrence Ave - Lakefront Trail & Bryn Mawr Ave,1,1067
+casual,Western Ave & Granville Ave - Dodge Ave & Mulford St,1,2807
+casual,MLK Jr Dr & 29th St - St. Clair St & Erie St,1,1129
+casual,Halsted St & 47th Pl - Racine Ave & Garfield Blvd,1,776
+casual,Chicago Ave & Sheridan Rd - Ellis Ave & 55th St,1,415
+casual,Ashland Ave & Lake St - Artesian Ave & Hubbard St,1,1285
+casual,Milwaukee Ave & Fullerton Ave - Kilbourn & Roscoe,1,910
+casual,Kedzie Ave & Milwaukee Ave - Eckhart Park,1,1188
+casual,Leavitt St & Addison St - Wilton Ave & Belmont Ave,1,536
+casual,Elizabeth St & Fulton St - Damen Ave & Chicago Ave,1,718
+casual,Ashland Ave & Chicago Ave - Campbell Ave & Fullerton Ave,1,1264
+casual,Damen Ave & Division St - Franklin St & Chicago Ave,1,704
+casual,Kedzie Ave & Leland Ave - Broadway & Argyle St,1,2757
+casual,Broadway & Argyle St - Western Ave & Walton St,1,1979
+casual,Franklin St & Monroe St - Clark St & Winnemac Ave,1,259
+casual,Southport Ave & Roscoe St - Sheridan Rd & Argyle St,1,348
+casual,DuSable Lake Shore Dr & North Blvd - University Library (NU),1,4549
+casual,Racine Ave & Congress Pkwy - Lakeview Ave & Fullerton Pkwy,1,509
+casual,Broadway & Barry Ave - Bernard St & Elston Ave,1,2324
+casual,Wells St & Walton St - Winchester (Ravenswood) Ave & Balmoral Ave,1,322
+casual,Ashland Ave & 74th St - Ashland Ave & 50th St,1,1382
+casual,Franklin St & Illinois St - Wells St & Institute Pl,1,194
+casual,Desplaines St & Jackson Blvd - Public Rack - Kedzie Ave & Archer Ave,1,441
+casual,Indiana Ave & 31st St - Kedzie Ave & 57th St,1,258
+casual,Western Ave & 24th St - Western Ave & Fillmore St,1,422
+casual,State St & 33rd St - Michigan Ave & 8th St,1,1141
+casual,Fairbanks St & Superior St - Canal St & Madison St,1,1641
+casual,Michigan Ave & 14th St - Wilton Ave & Diversey Pkwy,1,2891
+casual,Sedgwick St & Huron St - Dayton St & North Ave,1,568
+casual,Clinton St & Jackson Blvd - Western Ave & Division St,1,1295
+casual,California Ave & Milwaukee Ave - Southport Ave & Roscoe St,1,1402
+casual,Cannon Dr & Fullerton Ave - Rush St & Cedar St,1,399
+casual,Ada St & Washington Blvd - Throop St & Taylor St,1,395
+casual,Public Rack - Spaulding Ave & North Ave - Leavitt St & Division St,1,362
+casual,Troy St & Grace St - Logan Blvd & Elston Ave,1,619

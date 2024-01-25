@@ -1,0 +1,65 @@
+hour,end_station_name,member_casual,count_of_users,day_of_week,month
+17,Clark St & Elm St,member,58,Tuesday,4
+16,Clark St & Elm St,member,53,Wednesday,3
+17,Clark St & Elm St,member,52,Wednesday,4
+17,Clark St & Elm St,member,49,Wednesday,5
+17,Clark St & Elm St,member,43,Tuesday,1
+17,Clark St & Elm St,member,42,Thursday,4
+17,Clark St & Elm St,member,41,Tuesday,5
+17,Clark St & Elm St,member,41,Thursday,3
+17,Clinton St & Washington Blvd,member,94,Wednesday,3
+16,Clinton St & Washington Blvd,member,85,Thursday,3
+16,Clinton St & Washington Blvd,member,84,Tuesday,2
+16,Clinton St & Washington Blvd,member,75,Tuesday,3
+16,Clinton St & Washington Blvd,member,75,Monday,3
+17,Clinton St & Washington Blvd,member,73,Tuesday,1
+17,Clinton St & Washington Blvd,member,73,Tuesday,3
+16,Clinton St & Washington Blvd,member,68,Tuesday,1
+18,DuSable Lake Shore Dr & North Blvd,member,80,Thursday,6
+17,DuSable Lake Shore Dr & North Blvd,member,76,Thursday,6
+17,DuSable Lake Shore Dr & North Blvd,member,73,Wednesday,6
+17,DuSable Lake Shore Dr & North Blvd,member,65,Tuesday,6
+18,DuSable Lake Shore Dr & North Blvd,member,60,Wednesday,6
+16,DuSable Lake Shore Dr & North Blvd,member,60,Wednesday,6
+15,DuSable Lake Shore Dr & North Blvd,member,59,Friday,6
+17,DuSable Lake Shore Dr & North Blvd,member,59,Friday,6
+18,Ellis Ave & 55th St,member,35,Tuesday,5
+17,Ellis Ave & 55th St,member,29,Thursday,4
+17,Ellis Ave & 55th St,member,26,Wednesday,5
+10,Ellis Ave & 55th St,member,26,Thursday,5
+19,Ellis Ave & 55th St,member,25,Sunday,4
+20,Ellis Ave & 55th St,member,24,Monday,4
+17,Ellis Ave & 55th St,member,24,Tuesday,5
+9,Ellis Ave & 55th St,member,23,Tuesday,1
+17,Kingsbury St & Kinzie St,member,48,Tuesday,4
+16,Kingsbury St & Kinzie St,member,47,Monday,4
+16,Kingsbury St & Kinzie St,member,45,Tuesday,4
+17,Kingsbury St & Kinzie St,member,45,Wednesday,4
+17,Kingsbury St & Kinzie St,member,43,Wednesday,3
+17,Kingsbury St & Kinzie St,member,42,Tuesday,3
+17,Kingsbury St & Kinzie St,member,41,Monday,3
+17,Kingsbury St & Kinzie St,member,41,Thursday,3
+17,State St & Chicago Ave,member,37,Tuesday,5
+17,State St & Chicago Ave,member,34,Wednesday,5
+17,State St & Chicago Ave,member,31,Thursday,5
+16,State St & Chicago Ave,member,31,Tuesday,5
+17,State St & Chicago Ave,member,31,Tuesday,1
+16,State St & Chicago Ave,member,29,Wednesday,5
+18,State St & Chicago Ave,member,26,Tuesday,5
+17,State St & Chicago Ave,member,25,Wednesday,3
+19,Streeter Dr & Grand Ave,member,120,Thursday,7
+18,Streeter Dr & Grand Ave,member,112,Thursday,7
+18,Streeter Dr & Grand Ave,member,111,Wednesday,7
+18,Streeter Dr & Grand Ave,member,108,Friday,7
+11,Streeter Dr & Grand Ave,member,102,Saturday,7
+17,Streeter Dr & Grand Ave,member,102,Thursday,7
+17,Streeter Dr & Grand Ave,member,99,Tuesday,7
+18,Streeter Dr & Grand Ave,member,98,Monday,7
+18,Wells St & Concord Ln,member,62,Thursday,6
+18,Wells St & Concord Ln,member,47,Friday,6
+17,Wells St & Concord Ln,member,46,Thursday,6
+18,Wells St & Concord Ln,member,46,Wednesday,6
+18,Wells St & Concord Ln,member,38,Thursday,4
+17,Wells St & Concord Ln,member,38,Friday,6
+17,Wells St & Concord Ln,member,38,Wednesday,3
+18,Wells St & Concord Ln,member,38,Wednesday,4

@@ -1,0 +1,6 @@
+rideable_type,member_casual,count_of_users,,Sum of count_of_users,Column Labels,,
+docked_bike,casual,13195,,Row Labels,casual,member,Grand Total
+classic_bike,casual,86889,,classic_bike,86889,303116,390005
+electric_bike,casual,280263,,docked_bike,13195,,13195
+electric_bike,member,480665,,electric_bike,280263,480665,760928
+classic_bike,member,303116,,Grand Total,380347,783781,1164128

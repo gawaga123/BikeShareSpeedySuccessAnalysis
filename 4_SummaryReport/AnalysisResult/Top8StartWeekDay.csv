@@ -1,0 +1,57 @@
+day_of_week,start_station_name,member_casual,count_of_users
+Saturday,DuSable Lake Shore Dr & Monroe St,casual,861
+Sunday,DuSable Lake Shore Dr & Monroe St,casual,681
+Friday,DuSable Lake Shore Dr & Monroe St,casual,630
+Tuesday,DuSable Lake Shore Dr & Monroe St,casual,456
+Thursday,DuSable Lake Shore Dr & Monroe St,casual,456
+Monday,DuSable Lake Shore Dr & Monroe St,casual,418
+Wednesday,DuSable Lake Shore Dr & Monroe St,casual,413
+Saturday,DuSable Lake Shore Dr & North Blvd,casual,737
+Sunday,DuSable Lake Shore Dr & North Blvd,casual,634
+Thursday,DuSable Lake Shore Dr & North Blvd,casual,558
+Friday,DuSable Lake Shore Dr & North Blvd,casual,530
+Monday,DuSable Lake Shore Dr & North Blvd,casual,445
+Tuesday,DuSable Lake Shore Dr & North Blvd,casual,391
+Wednesday,DuSable Lake Shore Dr & North Blvd,casual,339
+Saturday,Dusable Harbor,casual,584
+Sunday,Dusable Harbor,casual,500
+Friday,Dusable Harbor,casual,322
+Tuesday,Dusable Harbor,casual,245
+Wednesday,Dusable Harbor,casual,238
+Thursday,Dusable Harbor,casual,234
+Monday,Dusable Harbor,casual,225
+Saturday,Michigan Ave & Lake St,casual,446
+Monday,Michigan Ave & Lake St,casual,352
+Sunday,Michigan Ave & Lake St,casual,332
+Wednesday,Michigan Ave & Lake St,casual,330
+Friday,Michigan Ave & Lake St,casual,323
+Tuesday,Michigan Ave & Lake St,casual,295
+Thursday,Michigan Ave & Lake St,casual,287
+Saturday,Michigan Ave & Oak St,casual,696
+Sunday,Michigan Ave & Oak St,casual,681
+Monday,Michigan Ave & Oak St,casual,380
+Friday,Michigan Ave & Oak St,casual,370
+Tuesday,Michigan Ave & Oak St,casual,312
+Thursday,Michigan Ave & Oak St,casual,292
+Wednesday,Michigan Ave & Oak St,casual,248
+Sunday,Millennium Park,casual,640
+Saturday,Millennium Park,casual,582
+Monday,Millennium Park,casual,411
+Friday,Millennium Park,casual,350
+Thursday,Millennium Park,casual,329
+Tuesday,Millennium Park,casual,313
+Wednesday,Millennium Park,casual,286
+Saturday,Shedd Aquarium,casual,623
+Sunday,Shedd Aquarium,casual,516
+Friday,Shedd Aquarium,casual,464
+Thursday,Shedd Aquarium,casual,379
+Tuesday,Shedd Aquarium,casual,374
+Monday,Shedd Aquarium,casual,364
+Wednesday,Shedd Aquarium,casual,351
+Saturday,Streeter Dr & Grand Ave,casual,1279
+Sunday,Streeter Dr & Grand Ave,casual,1067
+Monday,Streeter Dr & Grand Ave,casual,757
+Friday,Streeter Dr & Grand Ave,casual,701
+Thursday,Streeter Dr & Grand Ave,casual,668
+Tuesday,Streeter Dr & Grand Ave,casual,600
+Wednesday,Streeter Dr & Grand Ave,casual,524

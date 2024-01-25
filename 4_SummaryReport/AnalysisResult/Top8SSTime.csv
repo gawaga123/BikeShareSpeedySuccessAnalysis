@@ -1,0 +1,65 @@
+hour,start_station_name,member_casual,count_of_users,day_of_week,month,,,,,,,Station Name,Sunday,Saturday,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Streeter Dr & Grand Ave,casual,51,Saturday,7,,Sum of count_of_users,Column Labels,,,,Streeter Dr & Grand Ave,119,163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Streeter Dr & Grand Ave,casual,43,Saturday,7,,Row Labels,Sunday,Saturday,Grand Total,,Shedd Aquarium,,115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Streeter Dr & Grand Ave,casual,42,Sunday,7,,Dusable Harbor,53,85,138,,Michigan Ave & Oak St,110,97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Streeter Dr & Grand Ave,casual,41,Sunday,5,,DuSable Lake Shore Dr & Monroe St,66,78,144,,Dusable Harbor,53,85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,DuSable Lake Shore Dr & Monroe St,casual,40,Sunday,4,,DuSable Lake Shore Dr & North Blvd,29,81,110,,DuSable Lake Shore Dr & North Blvd,29,81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Streeter Dr & Grand Ave,casual,40,Thursday,7,,Michigan Ave & Lake St,,42,42,,DuSable Lake Shore Dr & Monroe St,66,78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Streeter Dr & Grand Ave,casual,36,Sunday,7,,Michigan Ave & Oak St,110,97,207,,Michigan Ave & Lake St,,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Shedd Aquarium,casual,35,Saturday,4,,Millennium Park,83,36,119,,Millennium Park,83,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Streeter Dr & Grand Ave,casual,35,Saturday,7,,Shedd Aquarium,,115,115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Michigan Ave & Oak St,casual,34,Sunday,7,,Streeter Dr & Grand Ave,119,163,282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Streeter Dr & Grand Ave,casual,34,Saturday,7,,Grand Total,460,697,1157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,DuSable Lake Shore Dr & Monroe St,casual,31,Friday,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,DuSable Lake Shore Dr & North Blvd,casual,29,Sunday,3,,Sum of count_of_users,Column Labels,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,DuSable Lake Shore Dr & Monroe St,casual,28,Tuesday,3,,Station Name,Sunday,Saturday,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,DuSable Lake Shore Dr & North Blvd,casual,28,Saturday,4,,Dusable Harbor,53,85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,DuSable Lake Shore Dr & North Blvd,casual,28,Monday,7,,DuSable Lake Shore Dr & Monroe St,66,78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Shedd Aquarium,casual,28,Saturday,4,,DuSable Lake Shore Dr & North Blvd,29,81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Shedd Aquarium,casual,28,Friday,4,,Michigan Ave & Lake St,,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,DuSable Lake Shore Dr & Monroe St,casual,27,Wednesday,3,,Michigan Ave & Oak St,110,97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,DuSable Lake Shore Dr & Monroe St,casual,27,Saturday,3,,Millennium Park,83,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,DuSable Lake Shore Dr & Monroe St,casual,27,Saturday,4,,Shedd Aquarium,,115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,DuSable Lake Shore Dr & North Blvd,casual,27,Saturday,7,,Streeter Dr & Grand Ave,119,163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Michigan Ave & Oak St,casual,27,Sunday,6,,Grand Total,460,697,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Michigan Ave & Oak St,casual,27,Sunday,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Michigan Ave & Oak St,casual,27,Saturday,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Shedd Aquarium,casual,27,Tuesday,4,,Sum of count_of_users,Column Labels,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Shedd Aquarium,casual,27,Friday,4,,,Sunday,,,,,,Sunday Total,Monday,,,Monday Total,Tuesday,,Tuesday Total,Wednesday,,Wednesday Total,Thursday,,,Thursday Total,Friday,,,,,,Friday Total,Saturday,,,,,,,,Saturday Total,Grand Total
+14,DuSable Lake Shore Dr & Monroe St,casual,26,Sunday,3,,Row Labels,Dusable Harbor,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & North Blvd,Michigan Ave & Oak St,Millennium Park,Streeter Dr & Grand Ave,,DuSable Lake Shore Dr & North Blvd,Michigan Ave & Lake St,Millennium Park,,DuSable Lake Shore Dr & Monroe St,Shedd Aquarium,,DuSable Lake Shore Dr & Monroe St,Michigan Ave & Lake St,,DuSable Lake Shore Dr & North Blvd,Michigan Ave & Lake St,Streeter Dr & Grand Ave,,Dusable Harbor,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & North Blvd,Michigan Ave & Lake St,Millennium Park,Shedd Aquarium,,Dusable Harbor,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & North Blvd,Michigan Ave & Lake St,Michigan Ave & Oak St,Millennium Park,Shedd Aquarium,Streeter Dr & Grand Ave,,
+14,DuSable Lake Shore Dr & North Blvd,casual,26,Saturday,4,,11,,,29,,17,,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46
+18,DuSable Lake Shore Dr & North Blvd,casual,26,Monday,7,,12,,,,,,,,,,,,,,,,,,,,,,,,,,,28,28,,27,28,,,,,43,98,126
+21,Michigan Ave & Oak St,casual,26,Saturday,6,,13,17,,,,23,36,76,,28,,28,,,,,,,,,,,,31,,,22,,53,20,24,,,49,18,28,51,190,347
+16,Shedd Aquarium,casual,26,Saturday,3,,14,,26,,27,,42,95,,,,,28,27,55,27,,27,,,,,,,,,,,,20,27,26,,,18,,34,125,302
+16,Shedd Aquarium,casual,26,Saturday,4,,15,36,40,,61,23,41,201,,,22,22,,26,26,,13,13,,,,,,,,,,27,27,20,,,,,,35,,55,344
+15,Shedd Aquarium,casual,26,Tuesday,3,,16,,,,22,20,,42,,,,,,,,,,,,13,,13,,,,,,,,25,,27,15,,,52,35,154,209
+19,DuSable Lake Shore Dr & North Blvd,casual,25,Thursday,7,,17,,,,,,,,28,,,28,,,,,,,,,,,18,,23,,,,41,,,,14,,,,,14,83
+16,Dusable Harbor,casual,25,Saturday,4,,18,,,,,,,,26,,,26,,,,,,,,,40,40,,,,,,,,,,,,,,,,,66
+13,DuSable Lake Shore Dr & Monroe St,casual,24,Saturday,3,,19,,,,,,,,,,,,,,,,,,25,,,25,,,,,,,,,,,,22,,,,22,47
+17,DuSable Lake Shore Dr & North Blvd,casual,23,Friday,4,,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,,,,,13,13
+13,Millennium Park,casual,23,Sunday,2,,21,,,,,,,,,,,,,,,,,,,,,,,,,13,,,13,,,,,26,,,,26,39
+15,Millennium Park,casual,23,Sunday,5,,Grand Total,53,66,29,110,83,119,460,54,28,22,104,28,53,81,27,13,40,25,13,40,78,18,31,23,13,22,55,162,85,78,81,42,97,36,115,163,697,1622
+13,Michigan Ave & Oak St,casual,22,Saturday,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Michigan Ave & Oak St,casual,22,Saturday,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Michigan Ave & Oak St,casual,22,Sunday,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Millennium Park,casual,22,Monday,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Millennium Park,casual,22,Friday,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Dusable Harbor,casual,20,Saturday,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Dusable Harbor,casual,20,Saturday,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Dusable Harbor,casual,20,Saturday,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Millennium Park,casual,20,Sunday,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Dusable Harbor,casual,19,Sunday,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Dusable Harbor,casual,18,Friday,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Millennium Park,casual,18,Saturday,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Millennium Park,casual,18,Saturday,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Dusable Harbor,casual,17,Sunday,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Dusable Harbor,casual,17,Sunday,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Millennium Park,casual,17,Sunday,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Michigan Ave & Lake St,casual,15,Saturday,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Michigan Ave & Lake St,casual,14,Monday,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Michigan Ave & Lake St,casual,14,Saturday,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Michigan Ave & Lake St,casual,14,Monday,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Michigan Ave & Lake St,casual,13,Wednesday,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Michigan Ave & Lake St,casual,13,Thursday,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Michigan Ave & Lake St,casual,13,Saturday,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Michigan Ave & Lake St,casual,13,Friday,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

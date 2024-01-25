@@ -1,0 +1,65 @@
+hour,start_station_name,member_casual,count_of_users,day_of_week,month
+18,DuSable Lake Shore Dr & Monroe St,member,21,Thursday,7
+17,DuSable Lake Shore Dr & Monroe St,member,20,Sunday,7
+18,DuSable Lake Shore Dr & Monroe St,member,19,Friday,7
+18,DuSable Lake Shore Dr & Monroe St,member,18,Tuesday,7
+17,DuSable Lake Shore Dr & Monroe St,member,17,Friday,7
+18,DuSable Lake Shore Dr & Monroe St,member,16,Saturday,7
+17,DuSable Lake Shore Dr & Monroe St,member,16,Saturday,7
+13,DuSable Lake Shore Dr & Monroe St,member,15,Saturday,7
+19,DuSable Lake Shore Dr & North Blvd,member,25,Tuesday,5
+19,DuSable Lake Shore Dr & North Blvd,member,21,Wednesday,4
+10,DuSable Lake Shore Dr & North Blvd,member,21,Saturday,4
+19,DuSable Lake Shore Dr & North Blvd,member,19,Thursday,4
+17,DuSable Lake Shore Dr & North Blvd,member,19,Friday,4
+18,DuSable Lake Shore Dr & North Blvd,member,19,Wednesday,7
+20,DuSable Lake Shore Dr & North Blvd,member,19,Monday,7
+16,DuSable Lake Shore Dr & North Blvd,member,18,Saturday,7
+12,Dusable Harbor,member,13,Saturday,7
+15,Dusable Harbor,member,13,Saturday,7
+17,Dusable Harbor,member,12,Thursday,7
+17,Dusable Harbor,member,12,Thursday,4
+18,Dusable Harbor,member,12,Thursday,7
+19,Dusable Harbor,member,12,Tuesday,7
+14,Dusable Harbor,member,11,Saturday,7
+17,Dusable Harbor,member,10,Friday,7
+16,Michigan Ave & Lake St,member,49,Tuesday,2
+16,Michigan Ave & Lake St,member,42,Tuesday,1
+17,Michigan Ave & Lake St,member,40,Wednesday,3
+16,Michigan Ave & Lake St,member,37,Wednesday,3
+16,Michigan Ave & Lake St,member,37,Tuesday,3
+17,Michigan Ave & Lake St,member,36,Tuesday,3
+17,Michigan Ave & Lake St,member,33,Wednesday,2
+16,Michigan Ave & Lake St,member,32,Wednesday,1
+18,Michigan Ave & Oak St,member,18,Wednesday,7
+17,Michigan Ave & Oak St,member,17,Friday,6
+15,Michigan Ave & Oak St,member,16,Sunday,7
+16,Michigan Ave & Oak St,member,15,Sunday,2
+16,Michigan Ave & Oak St,member,15,Saturday,6
+18,Michigan Ave & Oak St,member,15,Monday,7
+18,Michigan Ave & Oak St,member,14,Wednesday,3
+14,Michigan Ave & Oak St,member,14,Sunday,3
+17,Millennium Park,member,21,Friday,6
+17,Millennium Park,member,17,Wednesday,3
+17,Millennium Park,member,17,Thursday,5
+15,Millennium Park,member,17,Saturday,6
+18,Millennium Park,member,17,Friday,6
+17,Millennium Park,member,16,Wednesday,5
+19,Millennium Park,member,16,Friday,6
+17,Millennium Park,member,16,Wednesday,6
+18,Shedd Aquarium,member,11,Friday,6
+15,Shedd Aquarium,member,11,Friday,6
+14,Shedd Aquarium,member,10,Saturday,6
+17,Shedd Aquarium,member,10,Friday,7
+18,Shedd Aquarium,member,10,Monday,7
+16,Shedd Aquarium,member,9,Thursday,4
+18,Shedd Aquarium,member,9,Thursday,6
+17,Shedd Aquarium,member,9,Wednesday,6
+18,Streeter Dr & Grand Ave,member,33,Monday,7
+11,Streeter Dr & Grand Ave,member,32,Saturday,7
+17,Streeter Dr & Grand Ave,member,31,Tuesday,7
+18,Streeter Dr & Grand Ave,member,30,Thursday,7
+17,Streeter Dr & Grand Ave,member,30,Friday,7
+16,Streeter Dr & Grand Ave,member,29,Friday,7
+18,Streeter Dr & Grand Ave,member,29,Tuesday,7
+16,Streeter Dr & Grand Ave,member,28,Saturday,7

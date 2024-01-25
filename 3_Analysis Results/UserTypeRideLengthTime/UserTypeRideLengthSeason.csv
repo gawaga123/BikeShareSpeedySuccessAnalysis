@@ -1,0 +1,16 @@
+seasons,member_casual,avg_ride_length_Min,
+2023SpringRide,casual,22.92,
+2023FallRide,casual,21.01,
+2023SummerRide,casual,19.75,
+2023FallRide,member,12.89,
+2023SummerRide,member,12.16,
+2023SpringRide,member,10.52,
+,,,
+,,,
+,,,
+Sum of avg_ride_length_Min,Column Labels,,
+Row Labels,casual,member,Grand Total
+2023SpringRide,22.91942834,10.51968369,33.43911203
+2023SummerRide,19.74539584,12.15920574,31.90460158
+2023FallRide,21.0068248,12.89183021,33.898655
+Grand Total,63.67164898,35.57071964,99.24236862
